@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Simplilearn classes\Phase2\Day15\Ass15\Ass15\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\Simplilearn classes\Phase2\Day15\Ass15\Ass15\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\Simplilearn classes\Phase2\Day15\Ass15\Ass15\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
